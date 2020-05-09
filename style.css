@@ -86,21 +86,24 @@ body{
     }
 
     .widget{
-        width:30%;
-        float:right;
-        background-color: lightgrey;
-        height:auto;
-        margin-right:20px;
-        margin-bottom: 10px;
-    }
+        
 
-    .widget1{
         margin:10px;
         display: inline-block;
         width:95%;
         height: 95%;
         background-color: white;
         padding:10px;
+
+    }
+
+    .widget1{
+        width:30%;
+        float:right;
+        background-color: lightgrey;
+        height:auto;
+        margin-right:20px;
+        margin-bottom: 10px;
     }
 
     h4{
